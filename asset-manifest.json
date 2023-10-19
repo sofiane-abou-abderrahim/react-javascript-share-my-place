@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-javascript-share-my-place/static/css/main.708a4a17.css",
+    "main.js": "/react-javascript-share-my-place/static/js/main.92d99e1a.js",
+    "index.html": "/react-javascript-share-my-place/index.html",
+    "main.708a4a17.css.map": "/react-javascript-share-my-place/static/css/main.708a4a17.css.map",
+    "main.92d99e1a.js.map": "/react-javascript-share-my-place/static/js/main.92d99e1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.708a4a17.css",
+    "static/js/main.92d99e1a.js"
+  ]
+}
